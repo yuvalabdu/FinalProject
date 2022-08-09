@@ -1,12 +1,33 @@
 # Final Project - Yuval Abdu
 
-This project focuses on automation infrastructure.
+This project created to demonstrate my knowledge and skills in automation testing.
+
+The project supports: Web, Mobile, Desktop, Electron apps, API and Data Base.
 
 ## Description
 
-The infrastructure supports: Web, Mobile, Desktop, Electron apps, API and Data Base.
+This project demonstates a smart automation infrastructure. It is bulid in 2 main sections: Main- contains all the infrastructure, and Test: contains all the tests. in the main section there are 4 packages (extensions, pageObjects, utilities, workflows) that contain number of classes whit methods. In this way, the tests can be created in very simple way with minimum lines of code.
 
-## Uses:
+## Infrastructure includes using of:
+
+* Page Object Design Pattern.
+* Data Driven Testing.
+* Support Of Different Clients/Browsers.
+* Failure Mechanism.
+* External Files Support.
+* Visual Testing.
+* Reporting System (including screenshots).
+
+### List of applications were used in this project:
+
+* Web: [sauce Demo](https://www.saucedemo.com/).
+* Mobile: Mortgage Calculator App.
+* API: Students-List server.
+* Electron: To Do List.
+* Desktop: Windows Calculator.
+* Data Base: [sauce Demo](https://www.saucedemo.com/).
+
+## Tools & Frameworks used in the project:
 
 * Java.
 * TestNG Framework.
@@ -15,7 +36,11 @@ The infrastructure supports: Web, Mobile, Desktop, Electron apps, API and Data B
 * Electron: Selenium ElectronDriver.
 * Desktop: WinAppDriver.
 * Visual Testing: Sikuli.
-* API: Rest API.
+* API: Rest Assured.
+* [Jenkins](https://www.jenkins.io/).
+* Allure reports- as the main reporting system.
+* [Monte Screen Recorder](https://mvnrepository.com/artifact/com.github.stephenc.monte/monte-screen-recorder) - for video screen record.
+* [MySQL](https://www.mysql.com/) Free Online DB- used for login to SauceDemo web page.
 
 
 
@@ -25,18 +50,10 @@ The infrastructure supports: Web, Mobile, Desktop, Electron apps, API and Data B
 
 * [Download project here](https://github.com/yuvalabdu/FinalProject)
 * You need to have Java on your device.
-* If you want to run my API test you need to have Student-List server.
-* My desktop test is on windows operating system calculator.
 
-### The Tests
+### Help
 
-* Web: [sauce Demo](https://www.saucedemo.com/)
-* Mobile: Mortgage Calculator App
-* API: Students-List server
-* Electron: To Do List
-* Desktop: Windows Calculator
-* Data Base: [sauce Demo](https://www.saucedemo.com/)
-
+This project is for DEMO purpose only. 
 
 ## Authors
 
