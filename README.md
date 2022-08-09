@@ -51,7 +51,7 @@ This project demonstates a smart automation infrastructure. It is bulid in 2 mai
 ### Installing
 
 * [Download project here](https://github.com/yuvalabdu/FinalProject)
-* You need to have Java on your device.
+* You must have Java on your device.
 
 ### Tests Execution:
 > Each of the applications has a few tests for demonstration purpose.
