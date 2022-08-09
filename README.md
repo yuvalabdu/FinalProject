@@ -1,8 +1,10 @@
 # Final Project - Yuval Abdu
 
-This project created to demonstrate my knowledge and skills in automation testing.
-
+### **_This project created to demonstrate my knowledge and skills in Automation Testing._**
+***
 The project supports: Web, Mobile, Desktop, Electron apps, API and Data Base.
+
+**Big advantage of the infrastructure is that it can be easy maintained!**
 
 ## Description
 
@@ -51,9 +53,11 @@ This project demonstates a smart automation infrastructure. It is bulid in 2 mai
 * [Download project here](https://github.com/yuvalabdu/FinalProject)
 * You need to have Java on your device.
 
-### Help
+### Tests Execution:
+> Each of the applications has a few tests for demonstration purpose.
+These tests can be developed in a very simple way, due to a lot of work with the infrastructure.
+[[Sanity Tests]](https://github.com/yuvalabdu/FinalProject/tree/master/src/test/java/sanity)
 
-This project is for DEMO purpose only. 
 
 ## Authors
 
