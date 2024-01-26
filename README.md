@@ -8,7 +8,7 @@ The project supports: Web, Mobile, Desktop, Electron apps, API and Data Base.
 
 ## Description
 
-This project demonstates a smart automation infrastructure. It is bulid in 2 main sections: Main- contains all the infrastructure, and Test: contains all the tests. in the main section there are 4 packages (extensions, pageObjects, utilities, workflows) that contain number of classes whit methods. In this way, the tests can be created in very simple way with minimum lines of code.
+This project demonstates a smart automation infrastructure. It is bulid in 2 main sections: Main- contains all the infrastructure, and Test: contains all the tests. in the main section there are 4 packages (extensions, pageObjects, utilities, workflows) that contain number of classes with methods. In this way, the tests can be created in very simple way with minimum lines of code.
 
 ## Infrastructure includes using of:
 
